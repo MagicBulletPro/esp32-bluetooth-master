@@ -36,7 +36,7 @@ Upload the code to both ESP32 boards.
 ## Circuit Setup
 Connect buttons to the GPIO pins as defined in the code.
 Ensure all peripherals are properly connected for GPIO control.
-## Run the Project
+
 ## Run the Project
 - Power up both ESP32 boards.
 - The Master ESP32 will automatically try to connect to the Slave ESP32.
